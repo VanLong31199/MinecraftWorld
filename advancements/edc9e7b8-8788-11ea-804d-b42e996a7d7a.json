@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-05-16 22:51:26 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wood_slab": "2020-04-29 21:27:31 +0700"
@@ -873,6 +879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-05-16 23:31:06 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-04-29 21:08:58 +0700"
@@ -1074,6 +1086,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2020-04-30 00:32:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-05-16 22:51:26 +0700"
     },
     "done": true
   },
@@ -1666,6 +1684,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-29 23:12:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-05-16 22:51:26 +0700"
     },
     "done": true
   },
@@ -2368,6 +2392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-05-16 23:31:06 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2020-05-09 01:11:42 +0700"
@@ -2419,6 +2449,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-04-29 21:08:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-05-16 23:31:06 +0700"
     },
     "done": true
   },
